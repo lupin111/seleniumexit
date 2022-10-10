@@ -1,0 +1,83 @@
+2022-10-10 14:59:51,744  INFO [main] becomeSeller:13 - Closing login Popup
+2022-10-10 14:59:51,813  INFO [main] becomeSeller:17 - Opening Becomeseller page
+2022-10-10 14:59:56,010 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-10 14:59:56,011 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-10 14:59:56,013 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-10 14:59:56,014 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-10 14:59:56,014 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lupingarg/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-10 15:00:50,851  INFO [main] downloadApp:18 - Closing the Login Popup
+2022-10-10 15:00:53,923  INFO [main] downloadApp:23 - Clicking more button
+2022-10-10 15:00:57,087  INFO [main] downloadApp:29 - Download App button clicked
+2022-10-10 15:00:57,425 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-10 15:00:57,426 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-10 15:00:57,426 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-10 15:00:57,426 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-10 15:00:57,426 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lupingarg/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-10 15:01:46,061  INFO [main] explorePlus:14 - Closing Login Popup
+2022-10-10 15:01:46,124  INFO [main] explorePlus:18 - Explore Page Clicking
+2022-10-10 15:01:48,192 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-10 15:01:48,192 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-10 15:01:48,193 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-10 15:01:48,194 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-10 15:01:48,194 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lupingarg/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-10 15:02:57,552  INFO [main] fashions:13 - Closing Login Popup
+2022-10-10 15:02:59,622  INFO [main] fashions:18 - Fashion button clicked
+2022-10-10 15:02:59,679 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-10 15:02:59,680 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-10 15:02:59,681 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-10 15:02:59,681 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-10 15:02:59,681 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lupingarg/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-10 15:03:15,753  INFO [main] gotoCart:16 - Login using credentials
+2022-10-10 15:03:18,007  INFO [main] gotoCart:23 - Going to cart
+2022-10-10 15:03:18,078 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-10 15:03:18,078 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-10 15:03:18,079 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-10 15:03:18,080 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-10 15:03:18,080 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lupingarg/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-10 15:03:48,992  INFO [main] groceries:15 - Login Using credentials
+2022-10-10 15:03:51,218  INFO [main] groceries:22 - Groceries Button Clicked
+2022-10-10 15:03:51,292 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-10 15:03:51,292 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-10 15:03:51,293 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-10 15:03:51,293 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-10 15:03:51,293 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lupingarg/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-10 15:04:28,515  INFO [main] invalidLogin:15 - Login using Invalid Credentials
+2022-10-10 15:04:28,720 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-10 15:04:28,720 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-10 15:04:28,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-10 15:04:28,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-10 15:04:28,722 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lupingarg/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-10 15:04:46,764  INFO [main] logout:17 - Login using Valid Credentials
+2022-10-10 15:04:50,007  INFO [main] logout:24 - Hovering over My account button
+2022-10-10 15:04:53,200  INFO [main] logout:30 - Logging out from Flipkart
+2022-10-10 15:04:53,366 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-10 15:04:53,367 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-10 15:04:53,368 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-10 15:04:53,368 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-10 15:04:53,368 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lupingarg/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-10 15:05:05,290  INFO [main] myProfile:17 - Login using credentials
+2022-10-10 15:05:08,533  INFO [main] myProfile:24 - My account button clicked
+2022-10-10 15:05:11,713  INFO [main] myProfile:30 - Going to my profile
+2022-10-10 15:05:11,890 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-10 15:05:11,891 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-10 15:05:11,892 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-10 15:05:11,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-10 15:05:11,893 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lupingarg/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-10 15:05:39,214  INFO [main] orders:18 - Login using credentials
+2022-10-10 15:05:42,586  INFO [main] orders:25 - Hovering over my account
+2022-10-10 15:05:45,740  INFO [main] orders:31 - Going to orders page
+2022-10-10 15:05:45,910 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-10 15:05:45,911 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-10 15:05:45,911 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-10 15:05:45,912 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-10 15:05:45,912 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lupingarg/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-10 15:06:29,644  INFO [main] searchItem:17 - Closing Login Popup
+2022-10-10 15:06:29,705  INFO [main] searchItem:21 - Searching the item
+2022-10-10 15:06:29,855 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-10 15:06:29,856 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-10 15:06:29,856 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-10 15:06:29,857 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-10 15:06:29,857 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lupingarg/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-10 15:07:22,857  INFO [main] supercoinZone:17 - Login using credentials
+2022-10-10 15:07:28,585  INFO [main] topOffers:13 - Closing Login Popup
+2022-10-10 15:07:36,057  INFO [main] wishlist:20 - Login using credentials
